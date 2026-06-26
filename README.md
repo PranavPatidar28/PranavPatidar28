@@ -92,7 +92,7 @@ const pranav = {
 
 <div align="center">
 
-![IntelliFarm](https://img.shields.io/badge/🌾%20IntelliFarm-2E7D32?style=for-the-badge&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=55&section=header&text=%F0%9F%8C%BE%20IntelliFarm&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="IntelliFarm" />
 
 </div>
 
@@ -116,7 +116,7 @@ const pranav = {
 
 <div align="center">
 
-![AgroRadar](https://img.shields.io/badge/📡%20AgroRadar-00BCD4?style=for-the-badge&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=55&section=header&text=%F0%9F%93%A1%20AgroRadar&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="AgroRadar" />
 
 </div>
 
@@ -141,7 +141,7 @@ const pranav = {
 
 <div align="center">
 
-![IntelliVault](https://img.shields.io/badge/🔐%20IntelliVault-7C3AED?style=for-the-badge&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=55&section=header&text=%F0%9F%94%90%20IntelliVault&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="IntelliVault" />
 
 </div>
 
@@ -163,7 +163,7 @@ const pranav = {
 
 <div align="center">
 
-![WS Chat](https://img.shields.io/badge/💬%20WS%20Chat%20App-F59E0B?style=for-the-badge&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f12711,100:f5af19&height=55&section=header&text=%F0%9F%92%AC%20WS%20Chat%20App&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="WS Chat App" />
 
 </div>
 
