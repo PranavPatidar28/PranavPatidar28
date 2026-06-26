@@ -1,0 +1,219 @@
+<!-- ════════════════════════ HEADER BANNER ════════════════════════ -->
+<a href="https://github.com/pranavpatidar28">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C2FF&height=200&section=header&text=Pranav%20Patidar&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20I%20turn%20ideas%20into%20shipped%20products&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
+</a>
+
+<!-- ════════════════════════ TYPING ANIMATION ════════════════════════ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=620&lines=Tech+enthusiast+who+loves+to+learn+everything;Building+amazing+web+%26+mobile+apps+for+fun;TypeScript+%E2%9D%A4%EF%B8%8F+Next.js+%E2%9D%A4%EF%B8%8F+NestJS;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<!-- ════════════════════════ STAT BADGES ════════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=pranavpatidar28&label=Profile%20Views&color=00c2ff&style=for-the-badge" alt="profile views" />
+<a href="https://github.com/pranavpatidar28?tab=followers">
+  <img src="https://img.shields.io/github/followers/pranavpatidar28?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Mobile-success?style=for-the-badge" alt="focus" />
+
+</div>
+
+<!-- ════════════════════════ ABOUT ME ════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```typescript
+const pranav = {
+  pronouns: "he" / "him",
+  role: "Full-Stack Developer",
+  code: ["TypeScript", "JavaScript", "SQL"],
+  stack: {
+    frontend: ["Next.js", "React", "React Native (Expo)", "TailwindCSS"],
+    backend: ["NestJS", "Node.js", "Prisma", "PostgreSQL"],
+    realtime: ["Socket.IO", "WebSockets"],
+    tooling: ["Turborepo", "pnpm", "Zustand", "TanStack Query"],
+  },
+  currentlyBuilding: "products that actually solve real problems 🌾",
+  motto: "Learn everything. Build for fun. Ship for impact.",
+};
+```
+
+> 🔭 I'm a **tech enthusiast who loves to learn everything** — I build full-stack web & mobile apps, from smart farming assistants to real-time crop-disease radars.
+> 🌱 Currently going deep on **scalable backends, real-time systems, and clean architecture**.
+> ⚡ Fun fact: I treat side projects like startups — design it, build it, ship it, then break it and rebuild it better.
+
+<br/>
+
+<!-- ════════════════════════ TECH STACK ════════════════════════ -->
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Data & Infra
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tooling
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════ FEATURED PROJECTS ════════════════════════ -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 IntelliFarm
+An intelligent farming assistant that gives farmers **weather forecasts, crop advisory, and live market rates** — all in one place.
+
+**Stack:** `Next.js` · `TypeScript` · `OpenWeather API` · `shadcn/ui` · `Vercel`
+
+[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellifarm)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://intellifarm-xi.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 AgroRadar
+A **crop disease detection & outbreak-mapping platform** — an Expo mobile app + NestJS backend monorepo, with real-time outbreak alerts.
+
+**Stack:** `Expo` · `NestJS` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Turborepo`
+
+[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/Crop-Disease-detection-and-map)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 IntelliVault
+A full-stack **secure vault** application for storing and managing sensitive data, built with a database-backed, component-driven architecture.
+
+**Stack:** `Next.js` · `TypeScript` · `Prisma` · `TailwindCSS`
+
+[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellivault-handcrafted)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 WS Chat App
+A real-time chat application with a dedicated **WebSocket frontend & backend**, built for instant low-latency messaging.
+
+**Stack:** `TypeScript` · `WebSockets` · `Node.js`
+
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/ws-chat-app-frontend)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/ws-chat-app-backend)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavpatidar28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatidar28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&langs_count=8" alt="top langs" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpatidar28&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="streak" />
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════ TROPHIES ════════════════════════ -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pranavpatidar28&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════ ACTIVITY GRAPH ════════════════════════ -->
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavpatidar28&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- ════════════════════════ SNAKE ANIMATION ════════════════════════ -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavpatidar28/pranavpatidar28/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavpatidar28/pranavpatidar28/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pranavpatidar28/pranavpatidar28/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════ CONNECT ════════════════════════ -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranav-patidar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://x.com/pranavloveher">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" />
+</a>
+<a href="https://instagram.com/pranav_patidar_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+<a href="mailto:pranavpatidar285@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════ QUOTE ════════════════════════ -->
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<!-- ════════════════════════ FOOTER ════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" alt="footer" />
+
+<div align="center">
+  <sub>⭐️ From <a href="https://github.com/pranavpatidar28">Pranav Patidar</a> — thanks for stopping by!</sub>
+</div>
