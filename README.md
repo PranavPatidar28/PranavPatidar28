@@ -85,9 +85,9 @@ const pranav = {
 <td width="50%" valign="top">
 
 ### 🌾 IntelliFarm
-An intelligent farming assistant that gives farmers **weather forecasts, crop advisory, and live market rates** — all in one place.
+A full-stack **smart farming platform** — web + mobile clients backed by a single NestJS API. Delivers weather, crop advisory, live mandi prices, an **AI assistant**, disease analysis, and even **ESP32 IoT** telemetry.
 
-**Stack:** `Next.js` · `TypeScript` · `OpenWeather API` · `shadcn/ui` · `Vercel`
+**Stack:** `Next.js 16` · `React Native (Expo)` · `NestJS` · `Prisma` · `PostgreSQL` · `Turborepo` · `Gemini AI`
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellifarm-rebuid)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://intellifarm-xi.vercel.app)
