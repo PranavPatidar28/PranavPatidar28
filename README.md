@@ -80,50 +80,105 @@ const pranav = {
 <!-- ════════════════════════ FEATURED PROJECTS ════════════════════════ -->
 ## 🚀 Featured Projects
 
+<div align="center">
+<i>A few things I've designed, built, and shipped end-to-end 👇</i>
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 IntelliFarm
-A full-stack **smart farming platform** — web + mobile clients backed by a single NestJS API. Delivers weather, crop advisory, live mandi prices, an **AI assistant**, disease analysis, and even **ESP32 IoT** telemetry.
+<div align="center">
 
-**Stack:** `Next.js 16` · `React Native (Expo)` · `NestJS` · `Prisma` · `PostgreSQL` · `Turborepo` · `Gemini AI`
+![IntelliFarm](https://img.shields.io/badge/🌾%20IntelliFarm-2E7D32?style=for-the-badge&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellifarm-rebuid)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://intellifarm-xi.vercel.app)
+</div>
+
+**Smart farming, end-to-end.** Web + mobile clients on a single NestJS API — weather, crop advisory, live mandi prices, an **AI assistant**, disease analysis, and **ESP32 IoT** telemetry.
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js%2016-000?style=flat-square&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+[![Code](https://img.shields.io/badge/%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellifarm-rebuid)
+[![Demo](https://img.shields.io/badge/%20Live%20Demo-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://intellifarm-xi.vercel.app)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 AgroRadar
-A **crop disease detection & outbreak-mapping platform** — an Expo mobile app + NestJS backend monorepo, with real-time outbreak alerts.
+<div align="center">
 
-**Stack:** `Expo` · `NestJS` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Turborepo`
+![AgroRadar](https://img.shields.io/badge/📡%20AgroRadar-00BCD4?style=for-the-badge&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/Crop-Disease-detection-and-map)
+</div>
+
+**Crop disease detection & outbreak mapping.** An Expo mobile app + NestJS backend monorepo that detects diseases and pushes **real-time outbreak alerts** across a region.
+
+<div align="center">
+
+![Expo](https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+[![Code](https://img.shields.io/badge/%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/Crop-Disease-detection-and-map)
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 IntelliVault
-A full-stack **secure vault** application for storing and managing sensitive data, built with a database-backed, component-driven architecture.
+<div align="center">
 
-**Stack:** `Next.js` · `TypeScript` · `Prisma` · `TailwindCSS`
+![IntelliVault](https://img.shields.io/badge/🔐%20IntelliVault-7C3AED?style=for-the-badge&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellivault-handcrafted)
+</div>
+
+**Your data, locked down.** A full-stack secure vault for storing and managing sensitive data, built on a database-backed, component-driven architecture.
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[![Code](https://img.shields.io/badge/%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellivault-handcrafted)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 WS Chat App
-A real-time chat application with a dedicated **WebSocket frontend & backend**, built for instant low-latency messaging.
+<div align="center">
 
-**Stack:** `TypeScript` · `WebSockets` · `Node.js`
+![WS Chat](https://img.shields.io/badge/💬%20WS%20Chat%20App-F59E0B?style=for-the-badge&logoColor=white)
 
-[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/ws-chat-app-frontend)
-[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/ws-chat-app-backend)
+</div>
+
+**Real-time messaging, low latency.** A chat app with a dedicated WebSocket frontend & backend, built for instant delivery and live presence.
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+[![Frontend](https://img.shields.io/badge/%20Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/ws-chat-app-frontend)
+[![Backend](https://img.shields.io/badge/%20Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/ws-chat-app-backend)
+
+</div>
 
 </td>
 </tr>
