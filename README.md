@@ -154,7 +154,7 @@ const pranav = {
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-[![Code](https://img.shields.io/badge/%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellivault-handcrafted)
+[![Code](https://img.shields.io/badge/%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellivault)
 
 </div>
 
