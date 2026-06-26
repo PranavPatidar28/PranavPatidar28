@@ -89,7 +89,7 @@ An intelligent farming assistant that gives farmers **weather forecasts, crop ad
 
 **Stack:** `Next.js` · `TypeScript` · `OpenWeather API` · `shadcn/ui` · `Vercel`
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellifarm)
+[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavpatidar28/intellifarm-rebuid)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://intellifarm-xi.vercel.app)
 
 </td>
