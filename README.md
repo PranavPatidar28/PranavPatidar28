@@ -6,7 +6,7 @@
 <!-- ════════════════════════ TYPING ANIMATION ════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=620&lines=Tech+enthusiast+who+loves+to+learn+everything;Building+amazing+web+%26+mobile+apps+for+fun;TypeScript+%E2%9D%A4%EF%B8%8F+Next.js+%E2%9D%A4%EF%B8%8F+NestJS;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&height=60&lines=Tech+enthusiast+who+loves+to+learn+everything;Building+amazing+web+%26+mobile+apps+for+fun;TypeScript+%E2%9D%A4%EF%B8%8F+Next.js+%E2%9D%A4%EF%B8%8F+NestJS;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- ════════════════════════ STAT BADGES ════════════════════════ -->
 <img src="https://komarev.com/ghpvc/?username=pranavpatidar28&label=Profile%20Views&color=00c2ff&style=for-the-badge" alt="profile views" />
