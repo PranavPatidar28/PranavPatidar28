@@ -184,6 +184,19 @@ const pranav = {
 </tr>
 </table>
 
+<br/>
+
+<!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
 <!-- ════════════════════════ ACTIVITY GRAPH ════════════════════════ -->
 ## 📈 Contribution Graph
 
