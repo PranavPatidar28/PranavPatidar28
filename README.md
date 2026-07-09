@@ -209,7 +209,7 @@ const pranav = {
 
 <div align="center">
 
-<img src="./profile/achievements.svg" alt="GitHub achievements" />
+<a href="https://github.com/PranavPatidar28"><strong>View GitHub achievements on my profile →</strong></a>
 
 </div>
 
