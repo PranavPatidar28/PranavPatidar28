@@ -184,37 +184,6 @@ const pranav = {
 </tr>
 </table>
 
-<br/>
-
-<!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="./profile/stats.svg" alt="GitHub stats" />
-<img height="180em" src="./profile/top-langs.svg" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="./profile/streak.svg" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════ TROPHIES ════════════════════════ -->
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/PranavPatidar28"><strong>View GitHub achievements on my profile →</strong></a>
-
-</div>
-
-<br/>
-
 <!-- ════════════════════════ ACTIVITY GRAPH ════════════════════════ -->
 ## 📈 Contribution Graph
 
