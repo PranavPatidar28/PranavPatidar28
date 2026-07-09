@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Pranav Patidar — Full-stack product developer</title>
+  <desc id="description">A dark navy editorial banner with cyan accents for Pranav Patidar's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117" />
+      <stop offset="0.58" stop-color="#102A3A" />
+      <stop offset="1" stop-color="#0D1117" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0.84" cy="0.13" r="0.72">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.30" />
+      <stop offset="0.46" stop-color="#0EA5E9" stop-opacity="0.10" />
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#67E8F9" stroke-opacity="0.07" stroke-width="1" />
+    </pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0" />
+      <stop offset="0.35" stop-color="#22D3EE" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#A3E635" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#background)" />
+  <rect width="1200" height="360" fill="url(#grid)" />
+  <rect width="1200" height="360" fill="url(#glow)" />
+
+  <path d="M 0 292 C 226 224 364 352 615 295 S 992 207 1200 278" fill="none" stroke="#22D3EE" stroke-opacity="0.34" stroke-width="1.5" />
+  <path d="M 0 316 C 276 255 436 364 685 314 S 1014 243 1200 300" fill="none" stroke="#67E8F9" stroke-opacity="0.14" stroke-width="1" />
+  <rect x="78" y="86" width="185" height="3" rx="1.5" fill="url(#line)" />
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif">
+    <text x="78" y="132" fill="#A3E635" font-size="16" font-weight="700" letter-spacing="3">FULL-STACK PRODUCT DEVELOPER</text>
+    <text x="78" y="204" fill="#F8FAFC" font-size="58" font-weight="800" letter-spacing="-2">Pranav Patidar</text>
+    <text x="80" y="250" fill="#CBD5E1" font-size="25" font-weight="500">I turn ambitious ideas into reliable web &amp; mobile products.</text>
+  </g>
+
+  <g transform="translate(976 88)">
+    <circle cx="58" cy="58" r="56" fill="#0D1117" fill-opacity="0.52" stroke="#67E8F9" stroke-opacity="0.28" />
+    <circle cx="58" cy="58" r="35" fill="none" stroke="#22D3EE" stroke-width="2" stroke-dasharray="4 8" />
+    <path d="M43 57h30M58 42v30" stroke="#A3E635" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg>
