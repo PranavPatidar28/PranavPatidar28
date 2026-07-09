@@ -257,15 +257,6 @@ const pranav = {
 
 </div>
 
-<br/>
-
-<!-- ════════════════════════ QUOTE ════════════════════════ -->
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
 <!-- ════════════════════════ FOOTER ════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" alt="footer" />
 
