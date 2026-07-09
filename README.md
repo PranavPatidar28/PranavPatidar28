@@ -191,25 +191,25 @@ const pranav = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavpatidar28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatidar28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&langs_count=8" alt="top langs" />
+<img height="180em" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="180em" src="./profile/top-langs.svg" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpatidar28&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="streak" />
+<img src="./profile/streak.svg" alt="GitHub streak" />
 
 </div>
 
 <br/>
 
 <!-- ════════════════════════ TROPHIES ════════════════════════ -->
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranavpatidar28&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="./profile/achievements.svg" alt="GitHub achievements" />
 
 </div>
 
